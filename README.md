@@ -2,9 +2,9 @@
 
 ## 👤 Identificação
 
-**Nome do aluno:** Filipe Fernandes Carneiro
-**Disciplina:** REDES – M6 – Programação de Sistemas de Informação  
-**Curso:** GPSI – 2.º Ano
+- **Nome do aluno:** Filipe Fernandes Carneiro
+- **Disciplina:** REDES – M6 – Programação de Sistemas de Informação  
+- **Curso:** GPSI – 2.º Ano
 
 ## 🎯 Objetivo do Projeto
 
